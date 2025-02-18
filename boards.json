@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Tofu 65",
+      "description": "A popular 65% aluminum case from KBDfans, great for entry-level customs.",
+      "price": 80.00,
+      "size": "65%",
+      "pcb-included": false,
+      "hotswappable": true ,
+      "brand": "Tofu",
+      "rating": 4.2
+    },
+    {
+      "name": "GMMK Pro",
+      "description": "A well-known 75% aluminum case with a rotary knob, often used for modding.",
+      "price": 179.99,
+      "size": "75%",
+      "pcb-included": true,
+      "hotswappable": true,
+      "brand": "Glorious",
+      "rating": 4.7
+    },
+    {
+      "name": "Bakeneko60",
+      "description": "A budget-friendly 60% case with a gummy O-ring mount for a softer typing feel.",
+      "price": 135.00,
+      "size": "60%",
+      "pcb-included": true,
+      "hotswappable": true,
+      "brand": "Cannon Keys",
+      "rating": 4.5
+    }
+  ]

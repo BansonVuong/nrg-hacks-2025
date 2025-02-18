@@ -27,12 +27,12 @@ app.get('/part', (req, res) => {
 
 //GET INFO
 
-app.get('/info:part', (req, res) => {
+app.get('/info/:part', (req, res) => {
   const part = req.params.part;
 
   const db = new sqlite3.Database("database.db");
   db.serialize(() => {
-    db.get('SELECT ID, TYPE FROM ITEMS WHERE ID = ?', [part], (err, row) => {
+    db.get('SELECT ID, TYPE, NAME, DESCRIPTION, MATERIAL, PRICE, RATING, QUANTITY, PRICE_PER_SWITCH, SWITCH_TYPE, BRAND, SIZE, PCB_INCLUDED, HOTSWAPPABLE FROM ITEMS WHERE ID = ?', [part], (err, row) => {
       if (err) {
         res.status(500).send(err.message);
         return;
@@ -48,29 +48,26 @@ app.get('/info:part', (req, res) => {
   });
 });
 
-app.get('/create', (req, res) => {
-  const { name, brand, description, type, colour, size = '', rating, price = null,} = req.body;
-  
-  // const name = req.body.name || null;
-  // const brand = req.body.brand || null;
-  // const description = req.body.description || null;
-  // const type = req.body.type || null;
-  // const colour = req.body.colour || null;
-  // const size = req.body.size || null;
-  // const rating = req.body.rating || null;
-  // const price = req.body.price || null;
-  const db = new sqlite3.Database("database.db");
-  db.serialize(() => {
-    db.run('INSERT INTO ITEMS (NAME, BRAND, DESCRIPTION, TYPE, COLOUR, SIZE, RATING, PRICE) VALUES (?, ?, ?, ?, ?, ?, ?, ?)', [name, brand, description, type, colour, size, rating, price], function(err) {
-      if (err) {
-        res.status(500).send(err.message);
-        return;
-      }
-      console.log(`A row has been inserted with rowid ${this.lastID}`);
-      res.json({id: this.lastID});
-    });
-  });
-});
+// app.get('/create', (req, res) => {
+//   const { name, price, brand, description = '', rating = null, type = '' } = req.query;
+
+//   const db = new sqlite3.Database("database.db");
+//   db.serialize(() => {
+//     db.run(
+//       'INSERT INTO ITEMS (NAME, BRAND, DESCRIPTION, TYPE, PRICE, RATING) VALUES (?, ?, ?, ?, ?, ?)',
+//       [name, brand, description, type, price, rating],
+//       function (err) {
+//         if (err) {
+//           res.status(500).send(err.message);
+//           return;
+//         }
+//         console.log(`A row has been inserted with rowid ${this.lastID}`);
+//         res.json({ id: this.lastID });
+//         db.close();
+//       }
+//     );
+//   });
+// });
 
 app.listen(3000);
 console.log('listening at port 3000!');

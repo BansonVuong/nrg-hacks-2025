@@ -1,0 +1,202 @@
+[
+    {
+      "name": "Gateron Milky Yellow Pro Switches",
+      "description": "Smooth and quiet linear switches for MX mechanical keyboards.",
+      "price": 19.99,
+      "quantity_of_package": 105,
+      "price_per_switch": 0.19,
+      "type": "Linear",
+      "brand": "Gateron",
+      "rating": 5
+    },
+    {
+      "name": "Drop Holy Panda X Mechanical Keyboard Switches",
+      "description": "Tactile switches with a 45% discount, free delivery on $100+.",
+      "price": 19.00,
+      "quantity_of_package": 90,
+      "price_per_switch": 0.21,
+      "type": "Tactile",
+      "brand": "Drop",
+      "rating": 4.2
+    },
+    {
+      "name": "Keychron G124 Kailh Jellyfish Box Switch Y",
+      "description": "Linear switches for mechanical keyboards.",
+      "price": 59.00,
+      "quantity_of_package": 72,
+      "price_per_switch": 0.82,
+      "type": "Linear",
+      "brand": "Keychron",
+      "rating": null
+    },
+    {
+      "name": "Varmilo 35/55 pcs Switches Set",
+      "description": "A set of 35 or 55 switches for mechanical keyboards.",
+      "price": 13.00,
+      "quantity_of_package": 35,
+      "price_per_switch": 0.37,
+      "type": null,
+      "brand": "Varmilo",
+      "rating": 4.8
+    },
+    {
+      "name": "Razer Mechanical Yellow Linear Switches",
+      "description": "Linear switches with a 4.5 rating and 11 reviews.",
+      "price": 24.99,
+      "quantity_of_package": 90,
+      "price_per_switch": 0.28,
+      "type": "Linear",
+      "brand": "Razer",
+      "rating": 4.5
+    },
+    {
+      "name": "Akko V3 Cream Yellow Pro Switch",
+      "description": "Linear switches with a 4.9 rating and 638 reviews.",
+      "price": 12.99,
+      "quantity_of_package": 45,
+      "price_per_switch": 0.29,
+      "type": "Linear",
+      "brand": "Akko",
+      "rating": 4.9
+    },
+    {
+      "name": "Glorious Panda Mechanical Switches",
+      "description": "Tactile switches with a 20% discount, free delivery on $50+.",
+      "price": 19.99,
+      "quantity_of_package": 36,
+      "price_per_switch": 0.56,
+      "type": "Tactile",
+      "brand": "Glorious",
+      "rating": 4.7
+    },
+    {
+      "name": "HMX Latte Pre Lubed Linear Keyboard Switches",
+      "description": "Pre-lubed linear switches for a smooth typing experience.",
+      "price": 8.10,
+      "quantity_of_package": 36,
+      "price_per_switch": 0.23,
+      "type": "Linear",
+      "brand": "Kinetic Labs",
+      "rating": null
+    },
+    {
+      "name": "Cherry MX Switch Set",
+      "description": "A set of Cherry MX switches for mechanical keyboards.",
+      "price": 20.00,
+      "quantity_of_package": 10,
+      "price_per_switch": 2.00,
+      "type": null,
+      "brand": "Cherry",
+      "rating": 4.7
+    },
+    {
+      "name": "EPOMAKER Sea Salt Switch Set",
+      "description": "Linear switches with free delivery.",
+      "price": 16.99,
+      "quantity_of_package": 36,
+      "price_per_switch": 0.47,
+      "type": "Linear",
+      "brand": "Epomaker",
+      "rating": null
+    },
+    {
+      "name": "Glorious Gateron Mechanical Keyboard Switches",
+      "description": "Linear switches with a 28% discount.",
+      "price": 24.99,
+      "quantity_of_package": 90,
+      "price_per_switch": 0.28,
+      "type": "Linear",
+      "brand": "Glorious",
+      "rating": 4.8
+    },
+    {
+      "name": "Drop Holy Panda Mechanical Switches",
+      "description": "Tactile switches with a 45% discount, free delivery on $100+.",
+      "price": 19.00,
+      "quantity_of_package": 90,
+      "price_per_switch": 0.21,
+      "type": "Tactile",
+      "brand": "Drop",
+      "rating": 4.3
+    },
+    {
+      "name": "Akko x HMX Stellar Rose Linear Switches",
+      "description": "Linear switches with free delivery.",
+      "price": 11.99,
+      "quantity_of_package": 45,
+      "price_per_switch": 0.27,
+      "type": "Linear",
+      "brand": "Akko",
+      "rating": 5
+    },
+    {
+      "name": "Keychron Optical Switch Set",
+      "description": "Optical switches for mechanical keyboards.",
+      "price": 6.00,
+      "quantity_of_package": 10,
+      "price_per_switch": 0.60,
+      "type": "Optical",
+      "brand": "Keychron",
+      "rating": 4.7
+    },
+    {
+      "name": "Glorious Mako Ultralight Tactile Switches",
+      "description": "Tactile switches with a 28% discount, free delivery on $35+.",
+      "price": 24.99,
+      "quantity_of_package": 90,
+      "price_per_switch": 0.28,
+      "type": "Tactile",
+      "brand": "Glorious",
+      "rating": 4.5
+    },
+    {
+      "name": "WS Morandi Mechanical Keyboard Switches",
+      "description": "Lubed linear switches with a 10% discount.",
+      "price": 17.99,
+      "quantity_of_package": 90,
+      "price_per_switch": 0.20,
+      "type": "Linear",
+      "brand": "WS",
+      "rating": null
+    },
+    {
+      "name": "Akko V3 Creamy Blue Pro Switch",
+      "description": "Tactile switches with a 4.9 rating and 114 reviews.",
+      "price": 12.99,
+      "quantity_of_package": 45,
+      "price_per_switch": 0.29,
+      "type": "Tactile",
+      "brand": "Akko",
+      "rating": 4.9
+    },
+    {
+      "name": "Cherry MX RGB Silent Red Switch Kit",
+      "description": "Silent linear switches for mechanical keyboards.",
+      "price": 15.99,
+      "quantity_of_package": 10,
+      "price_per_switch": 1.60,
+      "type": "Linear",
+      "brand": "Cherry",
+      "rating": null
+    },
+    {
+      "name": "GUYEKS Gateron Milky Yellow Pro V2 Pre-lubed 5-Pin 50gf Linear Switches",
+      "description": "Pre-lubed linear switches for MX mechanical keyboards.",
+      "price": 18.99,
+      "quantity_of_package": 72,
+      "price_per_switch": 0.26,
+      "type": "Linear",
+      "brand": "GUYEKS",
+      "rating": null
+    },
+    {
+      "name": "Durock Ice King Tactile Switches",
+      "description": "Tactile switches with free delivery.",
+      "price": 36.99,
+      "quantity_of_package": 90,
+      "price_per_switch": 0.41,
+      "type": "Tactile",
+      "brand": "Durock",
+      "rating": null
+    }
+]

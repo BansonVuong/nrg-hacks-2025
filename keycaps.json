@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Drop + SA Carbon Custom Keycap Set",
+      "description": "Custom keycap set with a unique design.",
+      "material": "ABS",
+      "price": 10.00,
+      "rating": 3.8
+    },
+    {
+      "name": "COSTOM PBT Keycaps with 134 Keys",
+      "description": "Cool custom keyboard caps for various keyboard sizes.",
+      "material": "PBT",
+      "price": 26.99,
+      "rating": 4.78
+    },
+    {
+      "name": "Glorious GPBT Gradient Keycaps",
+      "description": "Gradient keycap set for mechanical keyboards.",
+      "material": "PBT",
+      "price": 29.99,
+      "rating": 4.8
+    },
+    {
+      "name": "CERAMIC KEYCAP SET V2",
+      "description": "Ceramic keycap set with a premium feel.",
+      "material": "Ceramic",
+      "price": 135.00,
+      "rating": 4.2
+    },
+    {
+      "name": "EPOMAKER Lavender Keycaps Set",
+      "description": "Lavender-themed keycap set for mechanical keyboards.",
+      "material": "PBT",
+      "price": 24.99,
+      "rating": 3.8
+    },
+    {
+      "name": "Drop + Redsuns GMK Red Samurai Keycap Set",
+      "description": "Red Samurai-themed keycap set with a bold design.",
+      "material": "ABS",
+      "price": 69.00,
+      "rating": 5.0
+    },
+    {
+      "name": "REDQIN Pink Jade 160 Keys RSA Profile PBT Keycap Set",
+      "description": "Pink Jade-themed keycap set with RSA profile.",
+      "material": "PBT",
+      "price": 29.99,
+      "rating": 3.9
+    }
+  ]
